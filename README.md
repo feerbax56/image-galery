@@ -1,2 +1,2 @@
-# feerbax56-JSFEPRESCHOOL
-Private repository for @feerbax56
+# Галерея картинок. 
+учебный проект с использованием API
